@@ -1,2 +1,5 @@
 opencv-python==4.3.0.36
 azureml-automl-dnn-vision>=1.47.0
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+pyarrow>=14.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
