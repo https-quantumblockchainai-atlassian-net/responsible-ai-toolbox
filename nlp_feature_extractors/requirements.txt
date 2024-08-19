@@ -5,3 +5,4 @@ sentencepiece
 spacy
 tqdm
 raiutils>=0.4.2
+aiohttp>=3.10.2 # not directly required, pinned by Snyk to avoid a vulnerability
