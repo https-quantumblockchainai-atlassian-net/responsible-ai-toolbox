@@ -2,3 +2,4 @@ azure-storage-blob
 jupyter
 transformers>=4.17.0
 torch
+tornado>=6.4.2 # not directly required, pinned by Snyk to avoid a vulnerability
