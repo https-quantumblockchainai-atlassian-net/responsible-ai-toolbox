@@ -7,3 +7,5 @@ lightgbm>=2.0.11
 erroranalysis>=0.5.4
 fairlearn==0.7.0
 raiutils>=0.4.2
+flask-cors>=6.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
