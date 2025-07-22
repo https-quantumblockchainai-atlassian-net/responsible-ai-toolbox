@@ -5,11 +5,11 @@ jsonschema
 erroranalysis>=0.5.4
 interpret-community>=0.31.0
 lightgbm>=2.0.11
-numpy>=1.17.2,<=1.26.2
+numpy>=1.22.2
 numba<=0.58.1
 pandas>=0.25.1,<2.0.0
 # See PR 1429 about upper bound
-scikit-learn>=0.22.1,!=1.1,<1.4.1.post1
+scikit-learn>=1.5.0,<1.4.1.post1
 scipy>=1.4.1
 semver~=2.13.0
 ml-wrappers
@@ -19,3 +19,5 @@ networkx<=2.5
 ipykernel<=6.8.0; python_version <= '3.7'
 ipykernel>=6.22.0; python_version > '3.7'
 raiutils>=0.4.2
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
