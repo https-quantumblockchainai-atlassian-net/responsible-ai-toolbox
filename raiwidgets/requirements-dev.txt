@@ -29,3 +29,4 @@ sphinx-gallery==0.10.0
 pydata-sphinx-theme==0.7.2
 
 ../responsibleai/.
+jupyterlab>=4.4.8 # not directly required, pinned by Snyk to avoid a vulnerability
