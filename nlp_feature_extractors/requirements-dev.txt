@@ -1,4 +1,4 @@
 azure-storage-blob
 jupyter
-transformers>=4.17.0
+transformers>=5.0.0rc1
 torch
