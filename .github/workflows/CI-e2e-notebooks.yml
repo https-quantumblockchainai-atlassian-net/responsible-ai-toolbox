@@ -73,7 +73,7 @@ jobs:
         run: yarn install --frozen-lock-file
 
       - name: Download the UI build result
-        uses: actions/download-artifact@v2
+        uses: actions/download-artifact@v4.1.7
         with:
           name: raiwidgets-js
           path: raiwidgets/raiwidgets/widget
