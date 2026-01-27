@@ -43,7 +43,7 @@
   "dependencies": {
     "@fluentui/react": "8.58.0",
     "@yarnpkg/parsers": "3.0.0-rc.48.1",
-    "canvas": "^2.11.2",
+    "canvas": "^3.0.0",
     "core-js": "^3.6.5",
     "d3-array": "^3.2.4",
     "d3-color": "^3.1.0",
@@ -59,7 +59,7 @@
     "jmespath": "^0.15.0",
     "json5": "^2.1.0",
     "localized-strings": "^0.2.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.23",
     "memoize-one": "^5.1.1",
     "minimist": "^1.2.6",
     "moment": "^2.29.4",
