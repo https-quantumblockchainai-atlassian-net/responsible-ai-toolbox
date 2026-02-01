@@ -1,4 +1,5 @@
 ![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fresponsible-ai-toolbox.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fresponsible-ai-toolbox?ref=badge_shield)
 
 ![Responsible AI Widgets Python Build](https://img.shields.io/github/actions/workflow/status/microsoft/responsible-ai-toolbox/CI-raiwidgets-pytest.yml?branch=main&label=Responsible%20AI%20Widgets%20Python%20Build)
 ![UI deployment to test environment](https://img.shields.io/github/actions/workflow/status/microsoft/responsible-ai-toolbox/CD.yml?branch=main&label=UI%20deployment%20to%20test%20environment)
@@ -150,3 +151,7 @@ Tools within the Responsible AI Toolbox can also be used with AI models offered 
 - [Hannah Westra](https://github.com/hawestra)
 - [Ziqi Ma](https://github.com/ziqi-ma)
 - [Kin Chan](https://github.com/kicha0)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fresponsible-ai-toolbox.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fresponsible-ai-toolbox?ref=badge_large)
