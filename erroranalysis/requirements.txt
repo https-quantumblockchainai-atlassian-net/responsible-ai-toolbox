@@ -1,6 +1,8 @@
-numpy>=1.17.2,<2.0.0
+numpy>=1.22.2
 pandas>=0.25.1,<2.0.0
 scipy>=1.4.1
-scikit-learn>=0.22.1
+scikit-learn>=1.5.0
 lightgbm>=2.0.11
 raiutils>=0.4.2
+requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
