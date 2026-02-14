@@ -5,3 +5,4 @@ sentencepiece
 spacy
 tqdm
 raiutils>=0.4.2
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
